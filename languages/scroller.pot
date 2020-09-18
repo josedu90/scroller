@@ -1,0 +1,650 @@
+# Copyright (C) 2020 Scroller
+# This file is distributed under the same license as the Scroller package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Scroller\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/scroller/scroller.php:396, wp-content/plugins/scroller/scroller.php:595
+msgid "Scroller Settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:397, wp-content/plugins/scroller/scroller.php:526, wp-content/plugins/scroller/scroller.php:529
+msgid "Scroller"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:418
+msgid "Scroller settings saved!"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:432
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:427
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:448
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:452, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:91, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:91
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:468
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:488
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:493
+msgid "Assignments"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:498, wp-content/plugins/scroller/scroller.php:616
+msgid "Custom CSS"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:503
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:508
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:513
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:530
+msgid "ver."
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:535
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:541
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:636
+msgid "UninstallTab Settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:630
+msgid "System Requirements"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:609
+msgid "Assignments Settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:602
+msgid "Design Settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:662
+msgid "Wheel scrolling speed:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:683
+msgid "Propagate from child to parent"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:704
+msgid "Animate Scroll Bar on hover"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:726
+msgid "Scrollbar gradient"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:750
+msgid "Minimum Scrollbar length:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:750, wp-content/plugins/scroller/scroller.php:776, wp-content/plugins/scroller/scroller.php:800, wp-content/plugins/scroller/scroller.php:824, wp-content/plugins/scroller/scroller.php:868
+msgid "pixels"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:776
+msgid "Maximum Scrollbar length:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:800, wp-content/plugins/scroller/scroller.php:1033
+msgid "Scrollbar width:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:824
+msgid "Scrollbar side space:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:845
+msgid "Disabling the horizontal scrollbar"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:868
+msgid "Scrollbar border radius:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:888
+msgid "Disabling the vertical scrollbar"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:908
+msgid "Enable styling on Touch Devices, WebKit browsers only."
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:928
+msgid "Window scrollbar styling"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:929
+msgid "Enable styling for the window scrollbar"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:947
+msgid "Scrollbar color"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:948
+msgid "Primary scrollbar color"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:968
+msgid "Scrollbar Gradient color"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:969
+msgid "Second color for vertical gradient"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:989
+msgid "Background color"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:990
+msgid "Scrollbar background color"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1012
+msgid "Background color:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1015
+msgid "Scrollbar color:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1021
+msgid "Scrollbar gradient:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1024
+msgid "Border radius:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1027
+msgid "Min Scrollbar length:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1030
+msgid "Max Scrollbar length:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1036
+msgid "Side space:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1039
+msgid "Animate on hover:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1042
+msgid "Scroll speed:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1045
+msgid "Wheel propagation:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1048
+msgid "Suppress x-scrollbar:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1051
+msgid "Suppress y-scrollbar:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1054
+msgid "Enable for Touch Devices:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1057
+msgid "Styles for Window:"
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1127
+msgid ""
+"The whole idea of the singleton design pattern is that there is a single \n"
+"                             object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/scroller/scroller.php:1149
+msgid ""
+"The whole idea of the singleton design pattern is that there is a single\n"
+"                 object therefore, we don't want the object to be unserialized."
+msgstr ""
+
+#: wp-content/plugins/scroller/uninstall.php:150, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:1135, wp-content/plugins/scroller/src/Merkulove/Scroller/EnvatoItem.php:145, wp-content/plugins/scroller/src/Merkulove/Scroller/Helper.php:136, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:429, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginCustomCss.php:145, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginUpdater.php:390, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:418, wp-content/plugins/scroller/src/Merkulove/Scroller/StatusTab.php:216, wp-content/plugins/scroller/src/Merkulove/Scroller/UI.php:449, wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:144, wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:389
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/scroller/uninstall.php:165, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:1150, wp-content/plugins/scroller/src/Merkulove/Scroller/EnvatoItem.php:160, wp-content/plugins/scroller/src/Merkulove/Scroller/Helper.php:151, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:444, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginCustomCss.php:160, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginUpdater.php:405, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:433, wp-content/plugins/scroller/src/Merkulove/Scroller/StatusTab.php:231, wp-content/plugins/scroller/src/Merkulove/Scroller/UI.php:464, wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:159, wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:404
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be unserialized."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:233
+msgid "Matching Method"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:235
+msgid "ALL"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:236
+msgid "ANY"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:238
+msgid "The plugin is enabled on the page if ALL the selected rules matched, or if ANY of the selected rules matched"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:243
+msgid "WordPress Content"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:246, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:268, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:278, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:307, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:333, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:359, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:381
+msgid "Ignore"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:247, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:269, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:279, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:308, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:334, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:360, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:382
+msgid "Include"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:248, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:270, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:280, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:309, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:335, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:361, wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:383
+msgid "Exclude"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:253
+msgid "Select on what page types or categories the assignment should be active."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:265
+msgid "Home Page"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:276
+msgid "Menu Items"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:284
+msgid "Select the menu items to assign to."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:304
+msgid "Date & Time"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:319
+msgid "The date and time assignments use the date/time of your servers, not that of the visitors system."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:321
+msgid "Current date/time:"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:330
+msgid "User Roles"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:339
+msgid "Select the user roles to assign to."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:356
+msgid "Devices"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:365
+msgid "Select the devices to assign to. Keep in mind that device detection is not always 100% accurate. Users can setup their device to mimic other devices."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:368
+msgid "Desktop"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:369
+msgid "Tablet"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:370
+msgid "Mobile"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:378
+msgid "Custom PHP"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:388
+msgid "Enter a piece of PHP code to evaluate. The code must return the value true or false."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/AssignmentsTab.php:390
+msgid "For instance:"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:80
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:90
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:85
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:311
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:317
+msgid "CodeCanyon purchase code"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:318
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:347
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:351
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:354
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:355
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:356
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:357
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:358, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:392
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:364
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:368
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:369
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:370
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:376
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:380
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:386
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:390
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginActivation.php:391
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginCustomCss.php:91
+msgid "Add custom CSS here. You probably have to use an expression !important for some rules."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:90, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:90
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:92, wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:92
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:110
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:242
+msgid ""
+"The whole idea of the singleton design pattern is that there is a single \n"
+"            object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginHelper.php:262
+msgid ""
+"The whole idea of the singleton design pattern is that there is a single \n"
+"            object therefore, we don't want the object to be unserialized."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginUpdater.php:352
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginUpdater.php:354
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/PluginUpdater.php:356
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:74
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:75
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:76
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:78
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:80
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:146
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:172, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:196, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:221, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:246, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:271
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:172, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:196, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:221, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:246, wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:271
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:198
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:223
+msgid "You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:248
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:273
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:318
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:326
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:332
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:347
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/ServerReporter.php:343
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/StatusTab.php:182
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:75
+msgid "Delete plugin:"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:98
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:99
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:103
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/UninstallTab.php:109
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:74
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:75
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:76
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:77
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:78
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:79
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:80
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:81
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:82
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:83
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:84
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:149
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:191
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:191
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:252
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:356
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/scroller/src/Merkulove/Scroller/WordPressReporter.php:356
+msgid "Inactive"
+msgstr ""

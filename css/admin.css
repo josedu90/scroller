@@ -1,0 +1,37 @@
+/**
+ * Scroller is a beautifully designed scroll bar for any element on a page or a whole WordPress page.
+ * Exclusively on Envato Market: https://1.envato.market/scroller
+ *
+ * @encoding        UTF-8
+ * @version         1.1.5
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Nemirovskiy Vitaliy (nemirovskiyvitaliy@gmail.com), Dmitry Merkulov (dmitry@merkulov.design), Alexander Khmelnitskiy (info@alexander.khmelnitskiy.ua)
+ * @support         help@merkulov.design
+ **/
+/* Activated. */
+.mdp-activation-status.activated i {
+  color: #0BDF6A; }
+
+.mdp-activation-status.not-activated {
+  color: #ff495c; }
+  .mdp-activation-status.not-activated i {
+    color: #ff495c; }
+
+.mdp-activation .mdp-info-box {
+  border: 1px solid #b9b9b9;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 10px;
+  border-radius: 8px; }
+
+.mdp-activation .mdp-title {
+  font-weight: bold;
+  line-height: 2;
+  font-size: 16px; }
+
+/* Admin style. */
+.mdp-hidden {
+  display: none !important; }
